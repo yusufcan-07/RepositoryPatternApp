@@ -1,0 +1,13 @@
+C:\Users\yusuf\RiderProjects\RepositoryPatternApp\RepositoryPatternApp\bin\Debug\netcoreapp3.1\RepositoryPatternApp.exe
+C:\Users\yusuf\RiderProjects\RepositoryPatternApp\RepositoryPatternApp\bin\Debug\netcoreapp3.1\RepositoryPatternApp.deps.json
+C:\Users\yusuf\RiderProjects\RepositoryPatternApp\RepositoryPatternApp\bin\Debug\netcoreapp3.1\RepositoryPatternApp.runtimeconfig.json
+C:\Users\yusuf\RiderProjects\RepositoryPatternApp\RepositoryPatternApp\bin\Debug\netcoreapp3.1\RepositoryPatternApp.runtimeconfig.dev.json
+C:\Users\yusuf\RiderProjects\RepositoryPatternApp\RepositoryPatternApp\bin\Debug\netcoreapp3.1\RepositoryPatternApp.dll
+C:\Users\yusuf\RiderProjects\RepositoryPatternApp\RepositoryPatternApp\bin\Debug\netcoreapp3.1\RepositoryPatternApp.pdb
+C:\Users\yusuf\RiderProjects\RepositoryPatternApp\RepositoryPatternApp\obj\Debug\netcoreapp3.1\RepositoryPatternApp.csprojAssemblyReference.cache
+C:\Users\yusuf\RiderProjects\RepositoryPatternApp\RepositoryPatternApp\obj\Debug\netcoreapp3.1\RepositoryPatternApp.AssemblyInfoInputs.cache
+C:\Users\yusuf\RiderProjects\RepositoryPatternApp\RepositoryPatternApp\obj\Debug\netcoreapp3.1\RepositoryPatternApp.AssemblyInfo.cs
+C:\Users\yusuf\RiderProjects\RepositoryPatternApp\RepositoryPatternApp\obj\Debug\netcoreapp3.1\RepositoryPatternApp.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\RiderProjects\RepositoryPatternApp\RepositoryPatternApp\obj\Debug\netcoreapp3.1\RepositoryPatternApp.dll
+C:\Users\yusuf\RiderProjects\RepositoryPatternApp\RepositoryPatternApp\obj\Debug\netcoreapp3.1\RepositoryPatternApp.pdb
+C:\Users\yusuf\RiderProjects\RepositoryPatternApp\RepositoryPatternApp\obj\Debug\netcoreapp3.1\RepositoryPatternApp.genruntimeconfig.cache
