@@ -1,1 +1,1 @@
-Simple C# application usin rrepository pattern
+Simple C# application using repository pattern
